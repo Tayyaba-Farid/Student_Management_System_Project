@@ -1,12 +1,9 @@
 {
-  "name": "@tayyabafarid/student_management_system",
-  "version": "1.0.0",
+  "name": "hrds-102-student_management_system",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "publishConfig": {
-    "access": "public"
-  },
   "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
